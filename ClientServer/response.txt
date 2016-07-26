@@ -1,0 +1,10 @@
+Array
+(
+    [Connection] => close
+    [Content-Type] => application/x-www-form-urlencoded
+    [Content-Length] => 18
+    [Host] => www.alexdenttest.com
+)
+<br />
+<b>Warning</b>:  Cannot modify header information - headers already sent by (output started at /home/alexdenttest/alexdenttest.com/test/postTest.php:27) in <b>/home/alexdenttest/alexdenttest.com/test/postTest.php</b> on line <b>13</b><br />
+ Error (): Network ID not found in Authorization header.
